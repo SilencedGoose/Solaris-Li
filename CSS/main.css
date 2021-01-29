@@ -4,6 +4,7 @@ li a{
  display: block;
  padding: 10px;
  background-color: #412157;
+ text-decoration: none;
 }
 
 body{
@@ -26,18 +27,6 @@ h1{
   margin: 0;
 }
 
-#content{
-  background-color: #412157;
-  text-align: center;
-  padding: 5px;
-}
-
-.info{
-  text-align: left;
-  padding-left: 2%;
-  padding-right: 2%;
-}
-
 ul{
   list-style-type:none;
   margin: 0;
@@ -47,12 +36,7 @@ ul{
 
 li{
   float: left;
-  width: 25%;
-}
-
-a{
-  color: white;
-  text-decoration: none;
+  width: 33.3333333333%;
 }
 
 nav a:hover{
@@ -74,4 +58,31 @@ button{
   background-color: #131645;
   width: 15%;
   border-color: black;
+}
+
+
+/* Other */
+#content{
+  background-color: #412157;
+  padding: 5px;
+}
+
+a{
+  color: white;
+}
+
+h3{
+  text-align: center;
+}
+
+.paragraphs{
+  text-align: left;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+h4{
+  text-align: left;
+  padding-left: 2%;
+  padding-right: 2%;
 }
