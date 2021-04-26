@@ -3,11 +3,14 @@ section {
     text-align: center;
 }
 
-.home {
-	background-image: url("../Images/placeholder-bg.jpg");
-    background-size: cover;
+#mainNavbar {
+    border-bottom: 5px solid #0197a7;
 }
 
-.navbar {
-    border-bottom: 5px solid #0197a7;
+.navlink .active a {
+  color: #a70186 !important;
+}
+
+.btn-cyan {
+    background-color: #0197a7;
 }
