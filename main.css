@@ -1,0 +1,13 @@
+section {
+    padding: 70px 20px 40px 20px;
+    text-align: center;
+}
+
+.home {
+	background-image: url("../Images/placeholder-bg.jpg");
+    background-size: cover;
+}
+
+.navbar {
+    border-bottom: 5px solid #0197a7;
+}
