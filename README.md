@@ -1,7 +1,4 @@
 # Website
-Website using GitHub Pages
+Portfolio website using Bootstrap.
 
-
-## Contents:
-### Test:
-- owo
+Hosted on GitHub Pages
