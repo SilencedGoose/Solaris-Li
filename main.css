@@ -12,5 +12,5 @@ section {
 }
 
 .bg-cyan {
-    background-color: #0197a7;
+    background-color: #0197a7 !important;
 }
